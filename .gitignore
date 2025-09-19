@@ -1,0 +1,38 @@
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+
+# Arquivos de distribuição e empacotamento
+build/
+dist/
+*.egg-info/
+
+
+# Arquivos de configuração de IDEs e editores
+.idea/
+.vscode/
+
+
+# Arquivos temporários gerados pelos guias de estudo
+# (json_guide.py, debugging_guide.py, etc.)
+*.json
+*.jsonl
+temp_file.txt
+
+
+# Arquivos de log
+*.log
+
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
