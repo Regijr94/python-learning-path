@@ -1,6 +1,6 @@
-# Python Geek University
+# Guias de Estudo Python
 
-Bem-vindo ao Python Geek University! Este repositório é uma coleção de guias de estudo práticos e aprofundados sobre conceitos fundamentais da linguagem Python. Cada guia é um script Python executável (`.py`) que serve como uma aula interativa, indo do básico ao avançado.
+Bem-vindo! Este repositório é uma coleção de guias de estudo práticos e aprofundados sobre conceitos fundamentais da linguagem Python. Cada guia é um script Python executável (`.py`) que serve como uma aula interativa, indo do básico ao avançado.
 
 ## Sobre o Projeto
 
