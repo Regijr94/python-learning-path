@@ -18,6 +18,7 @@ Atualmente, o projeto cobre os seguintes tópicos:
 *   **Módulos e Pacotes (`modulos_guide.py`):** Aprenda a organizar seu código de forma escalável.
 *   **JSON (`json_guide.py`):** Guia essencial para serialização e desserialização de dados.
 *   **Erros e Debugging (`debugging_guide.py`):** Aprenda a tratar exceções e a depurar seu código como um profissional.
+*   **Decorators (`decorators_guide.py`):** Guia definitivo sobre um dos recursos mais poderosos e elegantes do Python.
 
 ## Como Usar
 
